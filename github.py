@@ -1,1 +1,1 @@
-printf("Hello computer I'm from github")
+print("Hello computer I'm from github")
